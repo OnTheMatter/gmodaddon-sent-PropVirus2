@@ -1,0 +1,2 @@
+# gmodaddon-sent-PropVirus2
+This is the sequel a Scripted Entity addon I made for gmod a while back, which consists of viruses which take the form of props and convert unsuspecting Props, NPCs, and Players into more Prop Viruses. This is in addition to a ton of customization in settings. However, the original addon has nightmarishly horrendous spaghetti code, and so I'm rewriting it with both an emphasis on cleaner code and being modular, so other people can add extensions to it themselves. 
