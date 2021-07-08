@@ -1,0 +1,11 @@
+{
+	"title"		:	"Prop Virus Rewrite",
+	"type"		:	"npc",
+	"tags"		:	[ "fun"],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

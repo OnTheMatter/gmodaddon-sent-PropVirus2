@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/otm_prop_virus_rewrite_base"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
